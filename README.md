@@ -6,7 +6,7 @@ This is the backend service for the **AI Prompt Generator** web application. It 
 
 ## Related Repos
 
-* Frontend (Streamlit): [ai-prompt-frontend](https://github.com/yourusername/ai-prompt-frontend)
+* Frontend (Streamlit): [AI-Prompt-Frontend](https://github.com/yourusername/ai-prompt-frontend)
 ---
 
 ## Features
