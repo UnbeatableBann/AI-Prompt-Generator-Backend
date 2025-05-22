@@ -51,7 +51,7 @@ backend/
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/UnbeatableBann/ai-prompt-backend.git
+git clone https://github.com/UnbeatableBann/AI-Prompt-Generator-Backend.git
 cd ai-prompt-backend
 ```
 
