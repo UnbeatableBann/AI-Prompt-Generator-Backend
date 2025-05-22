@@ -42,6 +42,8 @@ backend/
 ├── .env.example            # Sample env config
 ├── requirements.txt        # Python dependencies
 └── test/                   # Unit and integration tests
+  └── test_full.py          # Full integration flow test
+  └── test_prompt.py        # Unit tests for prompt formatting
 ```
 
 ---
