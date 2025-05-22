@@ -54,10 +54,10 @@ backend/
 
 ```bash
 git clone https://github.com/UnbeatableBann/AI-Prompt-Generator-Backend.git
-cd ai-prompt-backend
+cd AI-Prompt-Generator-Backend
 ```
 
-### 2. Create and activate virtual environment
+### 2. Create and activate a virtual environment
 
 ```bash
 python -m venv venv
