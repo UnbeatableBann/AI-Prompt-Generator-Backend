@@ -2,6 +2,7 @@
 
 This is the backend service for the **AI Prompt Generator** web application. It handles user queries, generates AI-based responses using prompt engineering, and stores the interaction history in a PostgreSQL database.
 
+More modularity, but I love separating files and clarity.
 ---
 
 ## Related Repos
@@ -92,6 +93,7 @@ flask run
 ---
 
 ## Testing
+Done with vibe coding, but expect this all is done by me. 👍
 
 ```bash
 pytest
