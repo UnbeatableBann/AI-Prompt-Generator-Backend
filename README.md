@@ -4,6 +4,11 @@ This is the backend service for the **AI Prompt Generator** web application. It 
 
 ---
 
+## Related Repos
+
+* Frontend (Streamlit): [ai-prompt-frontend](https://github.com/yourusername/ai-prompt-frontend)
+---
+
 ## Features
 
 * REST API built with Flask
@@ -115,12 +120,6 @@ Generate AI responses
 ### `GET /history?user_id=user123`
 
 Get all previous interactions
-
----
-
-## Related Repos
-
-* Frontend (Streamlit): [ai-prompt-frontend](https://github.com/yourusername/ai-prompt-frontend)
 
 ---
 
