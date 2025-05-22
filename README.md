@@ -6,7 +6,8 @@ This is the backend service for the **AI Prompt Generator** web application. It 
 
 ## Related Repos
 
-* Frontend (Streamlit): [AI-Prompt-Frontend](https://github.com/yourusername/ai-prompt-frontend)
+* Frontend (Streamlit): [AI-Prompt-Frontend](https://unbeatablebann-ai-prompt-generator-app-vachgp.streamlit.app/)
+* Frontend (Github): [AI-Prompt-Frontend-repo](https://github.com/UnbeatableBann/AI-Prompt-Generator)
 ---
 
 ## Features
